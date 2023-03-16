@@ -6,4 +6,4 @@ The question to answer
 ### The distribution of scores varies depending on the standard deviation of throws
 
 The sample distribution of scores given 1 cm standard deviation of throws
-![Distribution of darts scores fiven 1cm std](https://raw.githubusercontent.com/Arkzv/Darts/main/Imgs/score_distribution_1cm_std.png)
+![Distribution of darts scores fiven 1cm std](Imgs/score_distribution_1cm_std.png)
