@@ -25,7 +25,11 @@ As a result, the target point of dartboard with maximum expected score depends o
 
 ### Requirements
 >Python 3.9.13
+>
 >Numpy 1.22.4
+>
 >Tensorflow 2.11.0
+>
 >Scipy 1.8.1
+>
 >matplotlib 3.7.1
