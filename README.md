@@ -1,7 +1,7 @@
 # Calculation of expected score distribution in Darts game
 
 The question to answer
-* What is the point with the highest expected score on the dartboard given standard deviation of throws
+* What is the point on the dartboard with the highest expected score given standard deviation of throws (other words where to throw a dart for novice/advanced/expert player?)
 
 ### The distribution of scores varies depending on the standard deviation of throws
 All the graphs below are generated using the code in the repository
@@ -25,7 +25,6 @@ As a result, the target point of dartboard with maximum expected score depends o
 
 ### Requirements
 >Python 3.9.13
->
 >Numpy 1.22.4
 >
 >Tensorflow 2.11.0
