@@ -22,6 +22,7 @@ As a result, the target point of dartboard with maximum expected score depends o
 
 ![Distribution of darts scores fiven 2cm std](Imgs/Optimal_track.png)
 
+The tensorflow convolutional function was used to sum up expected values of throws for the every point of a graph.
 
 ### Requirements
 >Python 3.9.13,
