@@ -3,8 +3,7 @@
 The question to answer
 * What is the point on the dartboard with the highest expected score given standard deviation of throws (other words where to throw a dart for novice/advanced/expert player?)
 
-### The distribution of scores varies depending on the standard deviation of throws
-All the graphs below are generated using the code in the repository
+### The distribution of scores varies depending on the standard deviation of throwsx
 
 The sample distribution of scores given 1 cm standard deviation of throws
 
@@ -23,6 +22,9 @@ As a result, the target point of dartboard with maximum expected score depends o
 ![Distribution of darts scores fiven 2cm std](Imgs/Optimal_track.png)
 
 The tensorflow convolutional function was used to sum up expected values of throws for the every point of a graph.
+
+All the graphs below are generated using the code in the repository. 
+There are no simulations/MonteCarlo etc, this is an analytic computation based on formulas
 
 ### Requirements
 >Python 3.9.13,
