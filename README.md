@@ -8,3 +8,7 @@ The question to answer
 The sample distribution of scores given 1 cm standard deviation of throws
 
 ![Distribution of darts scores fiven 1cm std](Imgs/score_distribution_1cm_std.png)
+
+... and standard deviation of throws 2 cm
+
+![Distribution of darts scores fiven 2cm std](Imgs/score_distribution_2cm_std.png)
