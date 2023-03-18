@@ -1,7 +1,7 @@
 # Calculation of expected score distribution in Darts game
 
 The question to answer
-* What is the point on the dartboard with the highest expected score given standard deviation of throws (other words where to throw a dart for novice/advanced/expert player?)
+* What is the point on the dartboard with the highest expected score given standard deviation of throws (other words what is the aim point for a novice/advanced/expert player on a dartboard?)
 
 ### The distribution of scores varies depending on the standard deviation of throwsx
 
